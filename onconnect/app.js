@@ -1,5 +1,5 @@
 // Copyright 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-// SPDX-License-Identifier: MIT-0
+// SPDX-License-Identifier: MIT-0 nam
 
 var AWS = require("aws-sdk");
 AWS.config.update({ region: process.env.AWS_REGION });
