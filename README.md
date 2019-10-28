@@ -1,4 +1,4 @@
-# simple-websockets-chat-appp
+# simple-websockets-chat-app
 
 This is the code and template for the simple-websocket-chat-app.  There are three functions contained within the directories and a SAM template that wires them up to a DynamoDB table and provides the minimal set of permissions needed to run the app:
 
